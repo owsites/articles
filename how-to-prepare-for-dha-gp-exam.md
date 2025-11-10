@@ -35,11 +35,11 @@ The [DHA exam](/exams/dha) is a computer-based assessment designed to evaluate t
 
 **Exam Type:** Multiple Choice Questions (MCQs)
 
-**Total Questions:** 100 MCQs
+**Total Questions:** 150 MCQs
 
-**Duration:** 90 minutes
+**Duration:** 165 minutes (2 hours and 45 minutes)
 
-**Passing Score:** 60% (60 out of 100 questions)
+**Passing Score:** 60% (90 out of 150 questions)
 
 **Question Style:** Single best answer format with clinical vignettes
 
@@ -304,7 +304,7 @@ The platform's [PrepMCQ Cycle System](/features) ensures you encounter questions
 
 ## Time Management Tips for DHA-GP Exam
 
-On exam day, you have 90 minutes for 100 questions – roughly 54 seconds per question.
+On exam day, you have 165 minutes for 150 questions – roughly 66 seconds per question.
 
 **During the Exam:**
 
@@ -400,5 +400,3 @@ Join thousands of doctors who have successfully cleared their licensing exams wi
 Have questions about DHA exam preparation? [Contact our support team](/contact) – we're here to help you succeed!
 
 ---
-
-*About the Author: Dr Farhan is a medical education specialist with extensive experience in helping doctors prepare for international licensing examinations. He has guided hundreds of medical graduates to successfully clear DHA, SMLE, and other licensing exams.*
