@@ -227,10 +227,10 @@ While your documents are being verified, use this time wisely to prepare for the
 ### Understanding the DHA-GP Exam
 
 **Exam Format:**
-- 100 multiple choice questions (MCQs)
-- 90 minutes duration
+- 150 multiple choice questions (MCQs)
+- 160 minutes duration
 - Computer-based test at Prometric centers
-- Passing score: 60% (60 correct answers)
+- Passing score: 60% (90 correct answers)
 
 **Exam Content Distribution:**
 
